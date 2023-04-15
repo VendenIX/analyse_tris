@@ -5,7 +5,6 @@ Antoine https://github.com/aa2727
 Guillaume https://github.com/P-Pix
 Logan https://github.com/LoganVivien
 
--Le dossier Rapport contient le rapport du projet réalisé en LaTeX.
 -Le dossier Data contient la partie analyse des données du projet
 -Le dossier App contient le code source de l'application de visualisation des algorithmes de tri.
 
