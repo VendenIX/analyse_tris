@@ -1,4 +1,6 @@
 Bienvenue dans le projet d'étude sur les algorithmes de tri.
+Application de visualisation et de génération de données CSV pour le Python en C++ et qui demande des librairies à installer. (Voir make download_lib)
+(Vous pouvez avoir des problèmes avec make download_lib si votre version de linux n'est pas mis à jour)
 
 Projet réalisé avec l'aide de :
 Antoine https://github.com/aa2727
