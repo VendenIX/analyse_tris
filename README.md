@@ -1,4 +1,4 @@
-Bienvenue dans le projet d'études sur les algorithmes de tri.
+Bienvenue dans le projet d'étude sur les algorithmes de tri.
 
 Projet réalisé avec l'aide de :
 Antoine https://github.com/aa2727
